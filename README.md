@@ -9,6 +9,7 @@ In the project directory with command prompt type the following commands.
 npm install
 npm start expo
 ```
+Choose a option of platform.
 ## Preview
 ### Start Screen
 ![Captura de tela 2024-01-14 033536](https://github.com/paulovaleb/Notes-App/assets/151897590/e30a2785-f591-47e5-91db-d8a174adbb8b)
